@@ -1,0 +1,12 @@
+Statistics Results
+Input file: TC4.txt
+Count: 12624
+Invalid: 0
+
+Mean: 149.002673
+Median: 147.750000
+Mode: [123.75]
+Variance: 17007.920843
+Std Dev: 130.414420
+
+Elapsed time: 0.009853 seconds

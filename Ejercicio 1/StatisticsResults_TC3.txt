@@ -1,0 +1,12 @@
+Statistics Results
+Input file: TC3.txt
+Count: 12624
+Invalid: 0
+
+Mean: 249.776220
+Median: 249.000000
+Mode: [94.0]
+Variance: 21117.277473
+Std Dev: 145.317850
+
+Elapsed time: 0.008066 seconds

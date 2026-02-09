@@ -1,0 +1,12 @@
+Statistics Results
+Input file: TC1.txt
+Count: 399
+Invalid: 1
+
+Mean: 241.912281
+Median: 239.000000
+Mode: [393.0, 170.0]
+Variance: 21086.305589
+Std Dev: 145.211245
+
+Elapsed time: 0.001081 seconds

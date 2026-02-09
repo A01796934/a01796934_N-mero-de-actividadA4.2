@@ -1,0 +1,12 @@
+Statistics Results
+Input file: TC2.txt
+Count: 1977
+Invalid: 0
+
+Mean: 250.784016
+Median: 247.000000
+Mode: [230.0]
+Variance: 20785.369132
+Std Dev: 144.171319
+
+Elapsed time: 0.001340 seconds
